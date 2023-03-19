@@ -1,0 +1,35 @@
+body{
+    width: 60vw;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    font-size: x-large;
+    position: relative;
+    left: 25%;
+    font-family: cursive;
+}
+h1,h2{
+    position: relative;
+    left: 60%;
+}
+th,tr,td{
+    padding: 25px;
+    background-color: yellowgreen;
+    border: 10px solid violet;    
+}
+.table-2{
+    border-collapse: collapse;
+}
+td.green{
+    background-color: lightgreen;
+}
+td.skin{
+    background-color: #fdaf08; 
+}
+.table-head,.table-col,.table-row{
+    background-color: white;
+    border: 1px solid black;
+    font-size: large;
+    padding: 30px;
+}
